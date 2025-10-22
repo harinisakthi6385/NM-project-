@@ -1,8 +1,8 @@
 {
   "name": "product-catalog",
   "version": "1.0.0",
-  "description": "",
-  "main": "1-server.js",
+  "description": "Product catalog backend using Express and MongoDB",
+  "main": "index.js",
   "dependencies": {
     "accepts": "^2.0.0",
     "body-parser": "^2.2.0",
@@ -50,7 +50,6 @@
     "mime-types": "^3.0.1",
     "mongodb": "^6.20.0",
     "mongodb-connection-string-url": "^3.0.2",
-    "mongoos": "^0.0.1-security",
     "mongoose": "^8.19.1",
     "mpath": "^0.9.0",
     "mquery": "^5.0.0",
@@ -90,11 +89,10 @@
     "wrappy": "^1.0.2"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC"
-  "scripts": {
-    "start": "node index.js"
 }

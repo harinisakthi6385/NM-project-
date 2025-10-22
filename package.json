@@ -1,7 +1,15 @@
 {
-  npm run dev   # for development (with auto-reload)
-# or
-npm start     # for production
+ {
+  "name": "nm-project",
+  "version": "1.0.0",
+  "main": "1-server.js",
+  "scripts": {
+    "start": "node 1-server.js"
+  },
+  "dependencies": {
+    // Your dependencies here
+  }
+}
 
   "name": "product-catalog",
   "version": "1.0.0",

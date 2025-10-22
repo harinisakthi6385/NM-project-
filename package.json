@@ -1,4 +1,8 @@
 {
+  npm run dev   # for development (with auto-reload)
+# or
+npm start     # for production
+
   "name": "product-catalog",
   "version": "1.0.0",
   "description": "",

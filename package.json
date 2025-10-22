@@ -1,15 +1,6 @@
 {
- {
-  "name": "nm-project",
-  "version": "1.0.0",
-  "main": "1-server.js",
-  "scripts": {
-    "start": "node 1-server.js"
-  },
-  "dependencies": {
-  }
-}
-
+ "scripts": {
+    "start": "node index.js"
   "name": "product-catalog",
   "version": "1.0.0",
   "description": "",

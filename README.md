@@ -29,5 +29,5 @@
 ## Installation & Setup Steps
 
 **Clone the repository**
-https://github.com/harinisakthi6385/NM-project-git
+https://github.com/harinisakthi6385/NM-project-.git
 
